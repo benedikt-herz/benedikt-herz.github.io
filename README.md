@@ -2,4 +2,4 @@
 
 This is a test
 
-[!logo](website_picture.png "tesxt")
+![logo](website_picture.png "tesxt")
