@@ -3,7 +3,7 @@
 <table>
     <tr>    
         <td width="30%">
-            <img src="website_picture.png">
+            <img src="website_picture.png"/>
         </td>  
         <td>
 Welcome to my webpage. I received my PhD in economics from the Universitat Pompeu Fabra in Barcelona. I am currently working as an economist at the European Commission.
