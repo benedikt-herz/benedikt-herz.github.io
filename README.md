@@ -16,6 +16,8 @@ Any opinions expressed on this website do not necessarily reflect those of the E
 Contact me at benedikt.herz@gmail.com
         </td>
     </tr>
+</table>  
+  
   
 
 ![logo](website_picture.png "tesxt") Benedikt Herz
