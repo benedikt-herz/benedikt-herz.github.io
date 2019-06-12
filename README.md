@@ -13,6 +13,3 @@ Contact me at benedikt.herz@gmail.com
         </td>        
     </tr>        
 </table>  
-  
-  
-
