@@ -1,5 +1,7 @@
 # Benedikt Herz's Website
 
+<!--- 
+
 <table>
     <tr>    
         <td width="30%">
@@ -13,3 +15,4 @@ Contact me at benedikt.herz@gmail.com
         </td>        
     </tr>        
 </table>  
+-->
