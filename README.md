@@ -7,7 +7,6 @@ This is a test
         <td>
             Image inside Table
         </td>
-
         <td>
         <img src="website_picture.png"></img>
         </td>
