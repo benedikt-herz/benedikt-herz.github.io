@@ -4,7 +4,7 @@ This is a test
 
 <table>
     <tr>    
-        <td>
+        <td width="30%">
         <img src="website_picture.png"></img>
         </td>  
         <td>
