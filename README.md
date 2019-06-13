@@ -2,7 +2,7 @@
 <table>
     <tr>    
         <td>
-            <img src="website_picture.png" width="100"/>
+            <img src="website_picture.png"  width="100"/>
         </td>  
         <td>
             <h1>Benedikt Herz</h1>
