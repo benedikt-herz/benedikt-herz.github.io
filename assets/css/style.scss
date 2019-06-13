@@ -3,14 +3,3 @@
 
 @import "{{ site.theme }}";
 body { font-size: 20px; max-width: 1000px; }
-.parent {
-    border: 1px solid yellow;
-    position: static;
-    width: 100px;
-}
-
-.inner {
-    border: 1px solid red;
-    max-width: 200px;
-    position: absolute;
-}
