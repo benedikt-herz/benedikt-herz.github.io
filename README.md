@@ -1,5 +1,5 @@
 
-<p align="center">
+
 <table>
     <tr>    
         <td width="35%">
@@ -17,4 +17,4 @@ Contact me at benedikt.herz@gmail.com
         </td>        
     </tr>        
 </table>  
-</p>
+
