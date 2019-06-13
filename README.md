@@ -26,15 +26,15 @@ Any opinions expressed on this website do not necessarily reflect those of the E
 
 #### Working Papers
 
-"Border Effects in European Public Procurement", R&R in *Journal of Economic Geography*, with X.L. Varela-Irimia
+"[Border Effects in European Public Procurement](https://www.dropbox.com/s/0udtegy08altxnq/Herz%20and%20Varela-Irimia%20%282019%29%20Border%20Effects%20in%20European%20Public%20Procurement.pdf?dl=0)", R&R in *Journal of Economic Geography*, with X.L. Varela-Irimia
 
-"Structural Change and the Fertility Transition", CEPR working paper, with P. Ager
+"[Structural Change and the Fertility Transition](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609)", CEPR working paper, with [P. Ager](https://www.philippager.com/)
 
 #### Selected Publications in Peer-Reviewed Journals
 
-"Accounting for Mismatch Unemployment,"  *Journal of the European Economic Association (2019)*, with T. van Rens
+"[Accounting for Mismatch Unemployment](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz018/5487943)",  *Journal of the European Economic Association (2019)*, with [T. van Rens](http://www.thijsvanrens.com/)
 
-"Specific Human Capital and Wait Unemployment," *Journal of Labor Economics, 37(2) (2019)* 
+"[Specific Human Capital and Wait Unemployment](https://www.journals.uchicago.edu/doi/abs/10.1086/700190?af=R)", *Journal of Labor Economics, 37(2) (2019)* 
 
 "[Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems](https://www.sciencedirect.com/science/article/pii/S0048733319301015)", *Research Policy (2019)*, with M. Mejer 
 
