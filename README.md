@@ -36,8 +36,8 @@ Any opinions expressed on this website do not necessarily reflect those of the E
 
 "Specific Human Capital and Wait Unemployment," *Journal of Labor Economics, 37(2) (2019)* 
 
-"Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems", *Research Policy (2019)*, with M. Mejer 
+"[Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems](https://www.sciencedirect.com/science/article/pii/S0048733319301015)", *Research Policy (2019)*, with M. Mejer 
 
-"Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries", *Information Economics and Policy, 43 (2018)*, with K. Kiljanski
+"[Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries](https://www.sciencedirect.com/science/article/pii/S016762451730152X)", *Information Economics and Policy, 43 (2018)*, with K. Kiljanski
 
-["On the Fee Elasticity of the Demand for Trademarks in Europe"](https://www.google.com/url?q=https%3A%2F%2Facademic.oup.com%2Foep%2Farticle%2F68%2F4%2F1039%2F2503409&sa=D&sntz=1&usg=AFQjCNHP29AjqiIKlWM28wSl0m9RuHWqfw), *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
+"[On the Fee Elasticity of the Demand for Trademarks in Europe](https://academic.oup.com/oep/article/68/4/1039/2503409)", *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
