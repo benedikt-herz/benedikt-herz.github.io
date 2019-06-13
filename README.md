@@ -26,18 +26,18 @@ Any opinions expressed on this website do not necessarily reflect those of the E
 
 #### Working Papers
 
-"Border Effects in European Public Procurement", R&R in Journal of Economic Geography, with X.L. Varela-Irimia
+"Border Effects in European Public Procurement", R&R in *Journal of Economic Geography*, with X.L. Varela-Irimia
 
 "Structural Change and the Fertility Transition", CEPR working paper, with P. Ager
 
 #### Selected Publications in Peer-Reviewed Journals
 
-"Accounting for Mismatch Unemployment,"  Journal of the European Economic Association, with T. van Rens
+"Accounting for Mismatch Unemployment,"  *Journal of the European Economic Association*, with T. van Rens
 
-"Specific Human Capital and Wait Unemployment," Journal of Labor Economics, 37(2) (2019) 
+"Specific Human Capital and Wait Unemployment," *Journal of Labor Economics, 37(2)* (2019) 
 
-"Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems", Research Policy, with M. Mejer 
+"Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems", *Research Policy*, with M. Mejer 
 
-"Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries", Information Economics and Policy, 43 (2018), with K. Kiljanski
+"Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries", *Information Economics and Policy, 43 (2018)*, with K. Kiljanski
 
-"On the Fee Elasticity of the Demand for Trademarks in Europe", Oxford Economic Papers, 68(4) (2016), with M. Mejer
+"On the Fee Elasticity of the Demand for Trademarks in Europe", *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
