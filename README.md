@@ -1,12 +1,5 @@
 # Benedikt Herz's Website
 
-test
-
-again
-
-
-<!--- 
-
 <table>
     <tr>    
         <td width="30%">
@@ -20,4 +13,4 @@ Contact me at benedikt.herz@gmail.com
         </td>        
     </tr>        
 </table>  
--->
+
