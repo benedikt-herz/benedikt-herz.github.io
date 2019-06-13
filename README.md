@@ -16,7 +16,7 @@ On this webpage you can find a list of my research papers and other work in prog
 
 <p style="text-align: justify; white-space: normal;">  
 Any opinions expressed on this website do not necessarily reflect those of the European Commission.
-Contact me at benedikt.herz@gmail.com</p>
+<strong>Contact me at </strong><a href="mailto:benedikt.herz@gmail.com" target="_blank">benedikt.herz@gmail.com</a></p>
         </td>        
     </tr>        
 </table>  
