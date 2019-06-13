@@ -6,7 +6,7 @@
             <img src="website_photo.png" style="width: 90%; margin: -0.0000009482% 0 -0.0000009482% 0%"  />
         </td>  
         <td align="justify">
-            <h1>Benedikt Herz</h1>
+            <h2>Benedikt Herz</h2>
             
 <p style="text-align: justify; white-space: normal;">  
 Welcome to my webpage. I received my PhD in economics from the <a href="https://www.econ.upf.edu" target="_blank">Universitat Pompeu Fabra</a> in Barcelona. I am currently working as an economist at the <a href="https://ec.europa.eu/commission/index_en" target="_blank">European Commission</a>.</p>
@@ -24,13 +24,13 @@ Any opinions expressed on this website do not necessarily reflect those of the E
     </tr>        
 </table>  
 
-### Working Papers
+#### Working Papers
 
 "Border Effects in European Public Procurement", R&R in Journal of Economic Geography, with X.L. Varela-Irimia
 
 "Structural Change and the Fertility Transition", CEPR working paper, with P. Ager
 
-### Selected Publications in Peer-Reviewed Journals
+#### Selected Publications in Peer-Reviewed Journals
 
 "Accounting for Mismatch Unemployment,"  Journal of the European Economic Association, with T. van Rens
 
