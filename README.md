@@ -32,12 +32,12 @@ Any opinions expressed on this website do not necessarily reflect those of the E
 
 #### Selected Publications in Peer-Reviewed Journals
 
-"Accounting for Mismatch Unemployment,"  *Journal of the European Economic Association*, with T. van Rens
+"Accounting for Mismatch Unemployment,"  *Journal of the European Economic Association (2019)*, with T. van Rens
 
-"Specific Human Capital and Wait Unemployment," *Journal of Labor Economics, 37(2)* (2019) 
+"Specific Human Capital and Wait Unemployment," *Journal of Labor Economics, 37(2) (2019)* 
 
-"Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems", *Research Policy*, with M. Mejer 
+"Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems", *Research Policy (2019)*, with M. Mejer 
 
 "Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries", *Information Economics and Policy, 43 (2018)*, with K. Kiljanski
 
-"On the Fee Elasticity of the Demand for Trademarks in Europe", *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
+["On the Fee Elasticity of the Demand for Trademarks in Europe"](https://www.google.com/url?q=https%3A%2F%2Facademic.oup.com%2Foep%2Farticle%2F68%2F4%2F1039%2F2503409&sa=D&sntz=1&usg=AFQjCNHP29AjqiIKlWM28wSl0m9RuHWqfw), *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
