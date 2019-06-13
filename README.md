@@ -1,7 +1,7 @@
 
 <table width="80%">
     <tr>    
-        <td width="35%">
+        <td>
             <img src="website_picture.png"/>
         </td>  
         <td>
