@@ -1,6 +1,6 @@
 
-
-<table align="center">
+<p align="center">
+<table>
     <tr>    
         <td width="35%">
             <img src="website_picture.png"  />
@@ -17,4 +17,4 @@ Contact me at benedikt.herz@gmail.com
         </td>        
     </tr>        
 </table>  
-
+</p>
