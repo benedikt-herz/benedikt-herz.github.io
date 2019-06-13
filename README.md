@@ -15,7 +15,7 @@ Welcome to my webpage. I received my PhD in economics from the <a href="https://
 On this webpage you can find a list of my research papers and other work in progress. I am mostly interested in applied microeconometrics and policy evaluation. My research covers areas such as labor economics, public economics, as well as economics of innovation and intellectual property rights.</p>
 
 <p style="text-align: justify; white-space: normal;">  
-Any opinions expressed on this website do not necessarily reflect those of the European Commission.
+<i>Any opinions expressed on this website do not necessarily reflect those of the European Commission.</i>
 </p>
 
 <p style="text-align: justify; white-space: normal;">  
