@@ -1,5 +1,5 @@
 
-<table>
+<table width="80%">
     <tr>    
         <td width="35%">
             <img src="website_picture.png"/>
