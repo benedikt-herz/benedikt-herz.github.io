@@ -24,13 +24,13 @@ Any opinions expressed on this website do not necessarily reflect those of the E
     </tr>        
 </table>  
 
-#Working Papers
+# Working Papers
 
 "Border Effects in European Public Procurement", R&R in Journal of Economic Geography, with X.L. Varela-Irimia
 
 "Structural Change and the Fertility Transition", CEPR working paper, with P. Ager
 
-#Selected Publications in Peer-Reviewed Journals
+# Selected Publications in Peer-Reviewed Journals
 
 "Accounting for Mismatch Unemployment,"  Journal of the European Economic Association, with T. van Rens
 
