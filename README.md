@@ -9,7 +9,7 @@
             <h1>Benedikt Herz</h1>
             
 <p style="text-align: justify; white-space: normal;">  
-Welcome to my webpage. I received my PhD in economics from the Universitat Pompeu Fabra in Barcelona. I am currently working as an economist at the <a href="www.europa.eu" target="_blank">European Commission</a>.</p>
+Welcome to my webpage. I received my PhD in economics from the Universitat Pompeu Fabra in Barcelona. I am currently working as an economist at the <a href="https://ec.europa.eu/commission/index_en" target="_blank">European Commission</a>.</p>
 
 <p style="text-align: justify; white-space: normal;">  
 On this webpage you can find a list of my research papers and other work in progress. I am mostly interested in applied microeconometrics and policy evaluation. My research covers areas such as labor economics, public economics, as well as economics of innovation and intellectual property rights.</p>
