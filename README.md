@@ -5,7 +5,7 @@
         <td width="35%">
             <img src="website_picture.png"  />
         </td>  
-        <td>
+        <td align="justify">
             <h1>Benedikt Herz</h1>
             
          
