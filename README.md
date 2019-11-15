@@ -31,13 +31,13 @@ On this webpage you can find a list of my research papers and other work in prog
 
 #### Selected Publications in Peer-Reviewed Journals
 
-"[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00851)", *Review of Economics and Statistics (forthcoming)*, [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), with [P. Ager](https://www.philippager.com/) and M. Brueckner
+"[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00851)", accepted in *Review of Economics and Statistics*, [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), with [P. Ager](https://www.philippager.com/) and M. Brueckner
 
-"[Accounting for Mismatch Unemployment](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz018/5487943)",  *Journal of the European Economic Association (2019)*, with [T. van Rens](http://www.thijsvanrens.com/)
+"[Accounting for Mismatch Unemployment](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz018/5487943)",  *Journal of the European Economic Association*, forthcoming, with [T. van Rens](http://www.thijsvanrens.com/)
 
 "[Specific Human Capital and Wait Unemployment](https://www.journals.uchicago.edu/doi/abs/10.1086/700190?af=R)", *Journal of Labor Economics, 37(2) (2019)* 
 
-"[Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems](https://www.sciencedirect.com/science/article/pii/S0048733319301015)", *Research Policy (2019)*, with M. Mejer 
+"[Effects of the European Union trademark: Lessons for the Harmonization of Intellectual Property Systems](https://www.sciencedirect.com/science/article/pii/S0048733319301015)", *Research Policy, 48(7) (2019)*, with M. Mejer 
 
 "[Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries](https://www.sciencedirect.com/science/article/pii/S016762451730152X)", *Information Economics and Policy, 43 (2018)*, with K. Kiljanski
 
