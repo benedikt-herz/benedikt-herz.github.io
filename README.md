@@ -24,12 +24,9 @@ On this webpage you can find a list of my research papers and other work in prog
     </tr>        
 </table>  
 
-#### Working Papers
-
-"[Border Effects in European Public Procurement](https://www.dropbox.com/s/cj684isyo17vrgg/Herz%20and%20Varela-Irimia%20%282019%29.pdf?dl=0)", [Online Appendix](https://www.dropbox.com/s/7p1qhieheq0zcw4/Herz%20and%20Varela-Irimia%20%282019%29%20Appendix.pdf?dl=0), R&R in *Journal of Economic Geography*, with X.L. Varela-Irimia
-
-
 #### Selected Publications in Peer-Reviewed Journals
+
+"[Border Effects in European Public Procurement](https://www.dropbox.com/s/cj684isyo17vrgg/Herz%20and%20Varela-Irimia%20%282019%29.pdf?dl=0)", [Online Appendix](https://www.dropbox.com/s/7p1qhieheq0zcw4/Herz%20and%20Varela-Irimia%20%282019%29%20Appendix.pdf?dl=0), accepted in *Journal of Economic Geography*, with X.L. Varela-Irimia
 
 "[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/pdf/10.1162/rest_a_00851)", accepted in *Review of Economics and Statistics*, [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), with [P. Ager](https://www.philippager.com/) and M. Brueckner
 
