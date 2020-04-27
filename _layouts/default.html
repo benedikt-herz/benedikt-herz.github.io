@@ -31,6 +31,16 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
+    
+    <!-- IpMeta must be included after Google Analytics -->
+<script src="https://ipmeta.io/plugin.js"></script>
+
+<script>
+    var data  = provideGtmPlugin({});
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(data);
+</script>
+    
     {% endif %}
   </body>
 </html>
