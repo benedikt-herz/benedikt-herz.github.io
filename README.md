@@ -25,8 +25,8 @@ On this webpage you can find a list of my research papers and other work in prog
 </table>  
 
 #### Working Papers
-"[The effect of design protection on price and price dispersion: Evidence
-from automotive spare parts](https://www.dropbox.com/s/lzkmx41q1hjalk4/Herz%20and%20Mejer%20%282020%29%20Dec%202020.pdf?dl=0)", with M. Mejer
+"[The Effect of Design Protection on Price and Price dispersion: Evidence
+from Automotive Spare Parts](https://www.dropbox.com/s/lzkmx41q1hjalk4/Herz%20and%20Mejer%20%282020%29%20Dec%202020.pdf?dl=0)", with M. Mejer
 
 #### Selected Publications in Peer-Reviewed Journals
 
