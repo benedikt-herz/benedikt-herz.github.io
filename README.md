@@ -32,7 +32,7 @@ from automotive spare parts](https://www.dropbox.com/s/lzkmx41q1hjalk4/Herz%20an
 
 "[Border Effects in European Public Procurement](https://academic.oup.com/joeg/advance-article-abstract/doi/10.1093/jeg/lbaa001/5815226)", [working paper](https://www.dropbox.com/s/cj684isyo17vrgg/Herz%20and%20Varela-Irimia%20%282019%29.pdf?dl=0),  *Journal of Economic Geography*, forthcoming, with X.L. Varela-Irimia
 
-"[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00851?mobileUi=0)", *Review of Economics and Statistics, 102(4) (2020)*, [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), with [P. Ager](https://www.philippager.com/) and M. Brueckner
+"[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00851?mobileUi=0)", [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), *Review of Economics and Statistics, 102(4) (2020)*, with [P. Ager](https://www.philippager.com/) and M. Brueckner
 
 "[Accounting for Mismatch Unemployment](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz018/5487943)",  *Journal of the European Economic Association*, forthcoming, with [T. van Rens](http://www.thijsvanrens.com/)
 
