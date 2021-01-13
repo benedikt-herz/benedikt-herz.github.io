@@ -27,10 +27,11 @@ On this webpage you can find a list of my research papers and other work in prog
 #### Working Papers
 "[The Effect of Design Protection on Price and Price dispersion: Evidence
 from Automotive Spare Parts](https://www.dropbox.com/s/lzkmx41q1hjalk4/Herz%20and%20Mejer%20%282020%29%20Dec%202020.pdf?dl=0)", with M. Mejer
+R&R in *International Journal of Industrial Organization*
 
 #### Selected Publications in Peer-Reviewed Journals
 
-"[Border Effects in European Public Procurement](https://academic.oup.com/joeg/advance-article-abstract/doi/10.1093/jeg/lbaa001/5815226)", [working paper](https://www.dropbox.com/s/cj684isyo17vrgg/Herz%20and%20Varela-Irimia%20%282019%29.pdf?dl=0),  *Journal of Economic Geography, 20(6) (2020)*, with X.L. Varela-Irimia
+"[Border Effects in European Public Procurement](https://academic.oup.com/joeg/advance-article-abstract/doi/10.1093/jeg/lbaa001/5815226)", *Journal of Economic Geography, 20(6) (2020)*, with X.L. Varela-Irimia
 
 "[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00851?mobileUi=0)", [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), *Review of Economics and Statistics, 102(4) (2020)*, with [P. Ager](https://www.philippager.com/) and M. Brueckner
 
