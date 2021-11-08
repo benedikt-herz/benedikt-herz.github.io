@@ -27,8 +27,8 @@ On this webpage you can find a list of my research papers and other work in prog
 #### Selected Publications in Peer-Reviewed Journals
 
 "[The Effect of Design Protection on Price and Price dispersion: Evidence
-from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S0167718721000692?dgcid=rss_sd_all)", with M. Mejer\
-R&R in *International Journal of Industrial Organization, 79, 102776 (2021)*
+from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S0167718721000692?dgcid=rss_sd_all)", 
+*International Journal of Industrial Organization, 79, 102776 (2021)*, with M. Mejer
 
 "[Border Effects in European Public Procurement](https://academic.oup.com/joeg/advance-article-abstract/doi/10.1093/jeg/lbaa001/5815226)", *Journal of Economic Geography, 20(6) (2020)*, with X.L. Varela-Irimia
 
