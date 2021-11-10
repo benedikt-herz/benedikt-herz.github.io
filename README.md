@@ -33,7 +33,7 @@ from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S
 
 "[Structural Change and the Fertility Transition](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00851?mobileUi=0)", [CEPR working paper](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13609), *Review of Economics and Statistics, 102(4) (2020)*, with [P. Ager](https://www.philippager.com/) and M. Brueckner
 
-"[Accounting for Mismatch Unemployment](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz018/5487943)",  *Journal of the European Economic Association*, forthcoming, with [T. van Rens](http://www.thijsvanrens.com/)
+"[Accounting for Mismatch Unemployment](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz018/5487943)",  *Journal of the European Economic Association, 18(4) (2020)*, with [T. van Rens](http://www.thijsvanrens.com/)
 
 "[Specific Human Capital and Wait Unemployment](https://www.journals.uchicago.edu/doi/abs/10.1086/700190?af=R)", *Journal of Labor Economics, 37(2) (2019)* 
 
