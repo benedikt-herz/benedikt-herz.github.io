@@ -42,3 +42,6 @@ from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S
 "[Movie Piracy and Displaced Sales in Europe: Evidence from Six Countries](https://www.sciencedirect.com/science/article/pii/S016762451730152X)", *Information Economics and Policy, 43 (2018)*, with K. Kiljanski
 
 "[On the Fee Elasticity of the Demand for Trademarks in Europe](https://academic.oup.com/oep/article/68/4/1039/2503409)", *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
+
+#### Other Selected Publications (Not in Peer-Reviewed Journals)
+"[Google/Fitbit: Preserving healthy competition in digital markets](https://ec.europa.eu/competition-policy/system/files/2021-12/mergers-brief_2021_kdal21001enn.pdf)",  *Competition Merger Brief, 1 (2021)*, with Leonie Hass, Fabio Polverino and João Vareda
