@@ -26,6 +26,10 @@ On this webpage you can find a list of my research papers and other work in prog
 
 #### Selected Publications in Peer-Reviewed Journals
 
+"[Recent Developments at DG Competition: 2024/2025](https://link.springer.com/article/10.1007/s11151-025-10044-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260103&utm_content=10.1007%2Fs11151-025-10044-y)", *J Review of Industrial Organization (forthcoming)*, with L. Adelt, A. Baltzopoulos, R. Kotzeva, D. Kovo, F. Louge, D. Magos, J. Piechucka, E. Tarantino
+
+"[Retail Foreign Direct Investment by Brand Manufacturers](https://onlinelibrary.wiley.com/doi/10.1111/jems.70018)", *Journal of Economics and Management Strategy (forthcoming)*, with R. Thomson
+
 "[The Effect of Design Protection on Price and Price dispersion: Evidence
 from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S0167718721000692?dgcid=rss_sd_all)", [working paper](https://mpra.ub.uni-muenchen.de/104137/), *International Journal of Industrial Organization, 79(102776) (2021)*, with M. Mejer
 
@@ -44,4 +48,8 @@ from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S
 "[On the Fee Elasticity of the Demand for Trademarks in Europe](https://academic.oup.com/oep/article/68/4/1039/2503409)", *Oxford Economic Papers, 68(4) (2016)*, with M. Mejer
 
 #### Other Selected Publications
+"[Novo Holdings/Catalent: Novo takes a big bite](https://competition-policy.ec.europa.eu/document/download/e9719b0b-f413-4359-b773-79573bd15ad0_en?filename=kd0125002enn_mergers_brief_2025-1.pdf)",  *DG COMP Competition Merger Brief, 1 (2025)*, with Daniel Irisarri Lolin, Cécile Manong, Hanna Perikangas, Dimosthenis Skarlatos, Zsolt Vertessy
+
+"[Microsoft/Activision Blizzard – the video gaming cloud on the horizon](https://op.europa.eu/en/publication-detail/-/publication/3136b1fa-27b0-11ef-a195-01aa75ed71a1)",  *DG COMP Competition Merger Brief, 1 (2024)*, with Iulia Ionescu, Ana Pendes
+
 "[Google/Fitbit: Preserving Healthy Competition in Digital Markets](https://ec.europa.eu/competition-policy/system/files/2021-12/mergers-brief_2021_kdal21001enn.pdf)",  *DG COMP Competition Merger Brief, 1 (2021)*, with Leonie Hass, Fabio Polverino and João Vareda
