@@ -26,7 +26,7 @@ On this webpage you can find a list of my research papers and other work in prog
 
 #### Selected Publications in Peer-Reviewed Journals
 
-"[Recent Developments at DG Competition: 2024/2025](https://link.springer.com/article/10.1007/s11151-025-10044-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260103&utm_content=10.1007%2Fs11151-025-10044-y)", *J Review of Industrial Organization (forthcoming)*, with L. Adelt, A. Baltzopoulos, R. Kotzeva, D. Kovo, F. Louge, D. Magos, J. Piechucka, E. Tarantino
+"[Recent Developments at DG Competition: 2024/2025](https://link.springer.com/article/10.1007/s11151-025-10044-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260103&utm_content=10.1007%2Fs11151-025-10044-y)", *Review of Industrial Organization (forthcoming)*, with L. Adelt, A. Baltzopoulos, R. Kotzeva, D. Kovo, F. Louge, D. Magos, J. Piechucka, E. Tarantino
 
 "[Retail Foreign Direct Investment by Brand Manufacturers](https://onlinelibrary.wiley.com/doi/10.1111/jems.70018)", *Journal of Economics and Management Strategy (forthcoming)*, with R. Thomson
 
