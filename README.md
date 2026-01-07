@@ -28,7 +28,7 @@ On this webpage you can find a list of my research papers and other work in prog
 
 "[Recent Developments at DG Competition: 2024/2025](https://link.springer.com/article/10.1007/s11151-025-10044-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260103&utm_content=10.1007%2Fs11151-025-10044-y)", *Review of Industrial Organization (forthcoming)*, with L. Adelt, A. Baltzopoulos, R. Kotzeva, D. Kovo, F. Louge, D. Magos, J. Piechucka, E. Tarantino
 
-"[Retail Foreign Direct Investment by Brand Manufacturers](https://onlinelibrary.wiley.com/doi/10.1111/jems.70018)", *Journal of Economics and Management Strategy (forthcoming)*, with R. Thomson
+"[Retail Foreign Direct Investment by Brand Manufacturers](https://onlinelibrary.wiley.com/doi/10.1111/jems.70018)", *Journal of Economics and Management Strategy (forthcoming)*, with [R. Thomson](https://experts.swinburne.edu.au/2229-russell-thomson)
 
 "[The Effect of Design Protection on Price and Price dispersion: Evidence
 from Automotive Spare Parts](https://www.sciencedirect.com/science/article/pii/S0167718721000692?dgcid=rss_sd_all)", [working paper](https://mpra.ub.uni-muenchen.de/104137/), *International Journal of Industrial Organization, 79(102776) (2021)*, with M. Mejer
