@@ -3,7 +3,7 @@
 <table>
     <tr>    
          <td style="width: 35%; vertical-align:top">
-            <img src="website_photo.png" style="width: 90%; margin: -0.0000009482% 0 -0.0000009482% 0%"  />
+            <img src="portrait_web_cut.jpg" style="width: 100%; margin: -0.0000009482% 0 -0.0000009482% 0%"  />
         </td>  
         <td align="justify">
             <h2>Benedikt Herz</h2>
